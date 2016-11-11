@@ -3,6 +3,13 @@
  */
 
 /* Links */
+
+#image{
+    height: 30px;
+    width: 30px;
+}
+
+
 a,
 a:focus,
 a:hover {
