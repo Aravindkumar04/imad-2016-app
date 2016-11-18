@@ -58,7 +58,7 @@
   border: 7px solid #f1f1f1;
   text-align: center;
 }
-.timeline > li .timeline-image h4 {
+.timeline > li .timeline-image  {
   font-size: 10px;
   margin-top: 12px;
   line-height: 14px;
