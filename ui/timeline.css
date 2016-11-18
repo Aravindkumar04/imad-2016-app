@@ -38,7 +38,7 @@
   clear: both;
 }
 .timeline > li .timeline-panel {
-  width: 100%;
+ 
   float: right;
   padding: 0 20px 0 100px;
   position: relative;
@@ -59,8 +59,7 @@
 .timeline > li .timeline-image {
   left: 0;
   margin-left: 0;
-  width: 80px;
-  height: 80px;
+  
   position: absolute;
   z-index: 100;
   background-color: #fed136;
@@ -69,7 +68,7 @@
   border: 7px solid #f1f1f1;
   text-align: center;
 }
-.timeline > li .timeline-image {
+.timeline > li .timeline-image h4 {
   font-size: 10px;
   margin-top: 12px;
   line-height: 14px;
@@ -94,7 +93,7 @@
 .timeline > li:last-child {
   margin-bottom: 0;
 }
-.timeline .timeline-heading  {
+.timeline .timeline-heading h4 {
   margin-top: 30;
   color: inherit;
 }
@@ -114,7 +113,7 @@
     min-height: 100px;
   }
   .timeline > li .timeline-panel {
-    width: 41%;
+   
     float: left;
     padding: 0 20px 20px 30px;
     text-align: right;
