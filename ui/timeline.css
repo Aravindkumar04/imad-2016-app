@@ -4,14 +4,14 @@
 }
 
 .cover-container {
-  z-index: : 0;
+  z-index: 0;
 }
 
 .timeline {
   z-index: 1;
   list-style: none;
   padding: 0;
-  height: : 80%;
+  height:  80%;
   position: relative;
 }
 .timeline:before {
