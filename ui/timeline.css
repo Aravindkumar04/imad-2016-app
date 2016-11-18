@@ -13,7 +13,6 @@
   padding: 0;
   height:  80%;
   position: relative;
-  background-color:  RED;
 }
 .timeline:before {
   top: 20px;
