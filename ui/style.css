@@ -305,6 +305,7 @@ section h3.section-subheading {
 }
 
 .timeline {
+    background-color:   #4dffff;
   list-style: none;
   padding: 0;
   position: relative;
