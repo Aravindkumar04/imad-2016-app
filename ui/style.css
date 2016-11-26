@@ -303,6 +303,9 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+#about {
+    background-color: #4dffff;
+}
 
 .timeline {
     background-color:   #4dffff;
