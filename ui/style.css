@@ -398,6 +398,7 @@ section h3.section-subheading {
   color: inherit;
 }
 .timeline .timeline-heading h4.subheading {
+    margin-top: 30px;
   text-transform: none;
 }
 .timeline .timeline-body > p,
